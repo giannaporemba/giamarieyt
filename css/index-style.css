@@ -12,11 +12,11 @@ html {
 
 nav {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin-top: 3%;
     background-color: rgb(255, 255, 255);
     padding: 20px;
-    word-spacing: 50px;
+    word-spacing: 10px;
     text-decoration: none;
     
 }
@@ -30,7 +30,11 @@ nav a:hover,
 nav a:active {
  background-color:rgba(85, 66, 104, 0.414);
  padding: 20px;
+ 
+}
 
+nav a:hover::before {
+    content: "\2606  ";
 }
 
 nav a:link,
@@ -67,6 +71,8 @@ p {
 p::before {
     content: "\2606  ";
 }
+
+
 
 footer {
     font-size: 1rem;
