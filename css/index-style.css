@@ -1,8 +1,28 @@
 html {
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-    
+}
+
+nav {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 3%;
+}
+
+
+img {
+
+    float: left;
+    max-width: 30%;
+    margin: 10%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 49%;
+    box-shadow: 5px 5px 3px #ccc;
+    shape-outside: circle(50%);
+
 
 }
+
 
 
