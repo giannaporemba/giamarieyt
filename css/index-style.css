@@ -33,7 +33,7 @@ nav a:active {
 }
 
 h1 {
-    margin-top: 7%;
+    margin-top: 2%;
     font-size: 3rem;
     text-shadow: 2px 2px 10px #583085;
     
@@ -56,4 +56,10 @@ p {
 
 }
 
+footer {
+    font-size: 1rem;
+    text-align: center;
+    clear: both;
+    margin-top: 10%;
+}
 
