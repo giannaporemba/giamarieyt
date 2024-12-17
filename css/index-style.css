@@ -4,9 +4,19 @@ html {
 
 }
 
+nav {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    
+}
 
+h1 {
+    text-align: center;
+}
 
 
 img {
     width: 200px;
+
 }
