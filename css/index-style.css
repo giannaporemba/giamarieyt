@@ -1,15 +1,13 @@
 html {
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-    
+    background-color: ;
 }
 
 *,
 * ::before
 * ::after {
-
     box-sizing: inherit;
-
 }
 
 nav {
@@ -21,6 +19,11 @@ nav {
     word-spacing: 50px;
     text-decoration: none;
     
+}
+
+nav li {
+    display: inline;
+
 }
 
 nav a:hover,
