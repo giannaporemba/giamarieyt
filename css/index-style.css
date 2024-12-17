@@ -7,7 +7,9 @@ html {
 *,
 * ::before
 * ::after {
+
     box-sizing: inherit;
+
 }
 
 nav {
@@ -21,29 +23,25 @@ nav {
 }
 
 h1 {
-    margin-top: 5%;
+    margin-top: 7%;
     font-size: 3rem;
     text-shadow: 2px 2px 10px #583085;
+    
 }
 
 img {
-
     float: left;
-    max-width: 30%;
+    max-width: 20%;
     margin: 10%;
-    margin-left: 10%;
     margin-right: 30%;
-    margin-top: 80px;
+    margin-top: 7%;
     border-radius: 50%;
     box-shadow: 5px 5px 15px #210244;
     shape-outside: circle(50%);
-
-
 }
  
 p {
     font-size: 1.7rem;
-    text-align: left;
     margin-right: 10%;
 
 }
