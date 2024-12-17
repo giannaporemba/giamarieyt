@@ -57,7 +57,7 @@ img {
     max-width: 20%;
     margin: 21%;
     margin-right: 30%;
-    margin-top: 7%;
+    margin-top: 10%;
     border-radius: 50%;
     box-shadow: 5px 5px 15px #210244;
     shape-outside: circle(50%);
@@ -85,6 +85,6 @@ footer {
     background-color: rgb(255, 255, 255);
     padding: 20px;
     width: -70%;
-opacity: 80%;
+    opacity: 80%;
 }
 
