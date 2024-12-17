@@ -3,6 +3,12 @@ html {
     font-family: 'Times New Roman', Times, serif;
 }
 
+*,
+* ::before
+* ::after {
+    box-sizing: inherit;
+}
+
 nav {
     text-align: center;
     font-size: 1.5rem;
@@ -15,7 +21,7 @@ img {
     float: left;
     max-width: 30%;
     margin: 10%;
-    margin-right: 20%;
+    margin-right: 10%;
     margin-top: 5%;
     border-radius: 49%;
     box-shadow: 5px 5px 3px #ccc;
@@ -23,6 +29,9 @@ img {
 
 
 }
-
+ 
+p {
+    font-size: 1rem;
+}
 
 
