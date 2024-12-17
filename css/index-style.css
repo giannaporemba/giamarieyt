@@ -22,10 +22,10 @@ p {
 
 img {
     float: left;
-    max-width: 300px;
+    width: 250px;
     margin: 10%;
     margin-right: 20%;
-    margin-top: 0%;
+    margin-top: 7%;
     border-radius: 50%;
     box-shadow: 5px 5px 5px;
     shape-outside: circle();
