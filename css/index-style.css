@@ -42,7 +42,7 @@ h1 {
 img {
     float: left;
     max-width: 20%;
-    margin: 10%;
+    margin: 21%;
     margin-right: 30%;
     margin-top: 7%;
     border-radius: 50%;
@@ -51,6 +51,7 @@ img {
 }
  
 p {
+    margin-top: 3%;
     font-size: 1.7rem;
     margin-right: 10%;
 
@@ -60,6 +61,6 @@ footer {
     font-size: 1rem;
     text-align: center;
     clear: both;
-    margin-top: 10%;
+    
 }
 
