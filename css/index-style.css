@@ -30,6 +30,12 @@ nav a:hover,
 nav a:active {
  background-color:rgba(85, 66, 104, 0.414);
  padding: 20px;
+
+}
+
+nav a:link,
+nav a:visited {
+    text-decoration: none;
 }
 
 h1 {
@@ -57,10 +63,15 @@ p {
 
 }
 
+
+p::before {
+    content: "\2606  ";
+}
+
 footer {
     font-size: 1rem;
     text-align: center;
     clear: both;
-    
+
 }
 
