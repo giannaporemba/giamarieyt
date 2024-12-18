@@ -31,3 +31,8 @@ nav a:link,
 nav a:visited {
     text-decoration: none;
 }
+
+h1 {
+    text-align: left
+    
+}
