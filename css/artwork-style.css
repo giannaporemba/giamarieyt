@@ -13,6 +13,11 @@ nav {
     
 }
 
+/*
+all nav tabs are usable when you trapse through the site. for example if you click on etc! tab,
+the and then some tab becomes available.
+*/
+
 nav ul {
     display: flex;
     justify-content: space-around;
@@ -122,4 +127,9 @@ img {
         background-color: blue;
     
     }
+
+    /*
+all of the photographs chosen for the by gia marie page are my paintings,
+my drawings, my photography.
+*/
     
